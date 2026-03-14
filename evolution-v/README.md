@@ -29,6 +29,8 @@ Every frame, real clock edges are driven into the RTL. The hardware pipeline com
 
 ---
 
+
+
 ## Neural Network Architecture
 
 - **Inputs (4):** height error, velocity, pipe distance, gap center
