@@ -29,7 +29,7 @@ Every frame, real clock edges are driven into the RTL. The hardware pipeline com
 
 ---
 
-
+https://github.com/user-attachments/assets/a4e0328f-7209-4209-8543-7a0740e5669e
 
 ## Neural Network Architecture
 
