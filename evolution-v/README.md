@@ -1,4 +1,4 @@
-# Evolution-V
+# BIRD
 
 > Flappy Bird where the bird's brain is a **real Verilog neural network**, evolved by a genetic algorithm.
 
